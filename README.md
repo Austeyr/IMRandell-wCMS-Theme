@@ -1,2 +1,2 @@
-# IMRandell-wCMS-Theme
+# IMRandellwCMS
 a simple theme for WonderCMS
